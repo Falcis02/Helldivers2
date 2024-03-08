@@ -26,7 +26,7 @@ class GameData
 		bool	ShowAllMapIcons = false;
 		bool	AllStratagems = false;
 		bool	AllEquipment = false;
-		bool	AllArmor = false;
+		bool	AllArmor = true;
 		bool	Speedhack = false;
 
 		bool	OHK = false;
